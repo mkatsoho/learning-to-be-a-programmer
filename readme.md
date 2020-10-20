@@ -42,10 +42,13 @@
 
 ### 基本的代码，和常用的类库
 
+- 掌握 TypeScript, https://ts.xcatliu.com/basics
 - TODO
 
 ### 中间件
 
+- 掌握 Redis
+- 掌握 
 - TODO
 
 ### 基础算法
