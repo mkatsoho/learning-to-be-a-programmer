@@ -66,13 +66,21 @@
 
 ## 成熟篇 (TODO)
 
+### 基本的代码，和常用的类库
 
+- 掌握 TypeScript, d.ts 解读 https://segmentfault.com/a/1190000009247663
+- TODO
 
+### 中间件
 
+- TODO 
 
+### 基础算法
 
+- TODO 
 
+### 开发流程和项目管理方法
 
-
+- TODO 
 
 
