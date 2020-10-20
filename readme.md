@@ -42,7 +42,7 @@
 
 ### 基本的代码，和常用的类库
 
-- 掌握 TypeScript, https://ts.xcatliu.com/basics
+- 掌握 TypeScript, https://ts.xcatliu.com/basics, https://www.runoob.com/typescript/ts-ambient.html
 - TODO
 
 ### 中间件
